@@ -29,10 +29,10 @@
 
 | 模块 | 核心问题 | 关键概念 |
 |------|---------|---------|
-| [01-organization](01-organization.md) | AI 时代的组织应该长什么样？ | 工会制替代公司制，知识沉淀替代人员绑定 |
-| [02-economy](02-economy.md) | AI 组织的经济怎么运转？ | Rep（声望）+ Share（份额）双层模型 |
-| [03-knowledge](03-knowledge.md) | AI 世界里"钱"是什么？ | 技能方案为交易单位，验证门控为质量保证 |
-| [04-human-agent](04-human-agent.md) | 人和 AI 怎么共存？ | 伴生 Agent，终身归属，共同成长 |
+| [01-organization](foundation/01-organization.md) | AI 时代的组织应该长什么样？ | 工会制替代公司制，知识沉淀替代人员绑定 |
+| [02-economy](foundation/02-economy.md) | AI 组织的经济怎么运转？ | Rep（声望）+ Share（份额）双层模型 |
+| [03-knowledge](foundation/03-knowledge.md) | AI 世界里"钱"是什么？ | 技能方案为交易单位，验证门控为质量保证 |
+| [04-human-agent](foundation/04-human-agent.md) | 人和 AI 怎么共存？ | 伴生 Agent，终身归属，共同成长 |
 
 **基础层之间的关系**：
 - 组织形态（01）决定了经济系统（02）怎么设计
@@ -45,10 +45,10 @@ AI 系统本身的设计，回答"支撑 AI 原生组织的技术架构应该什
 
 | 模块 | 核心问题 | 关键概念 |
 |------|---------|---------|
-| [05-agent-arch](05-agent-arch.md) | Agent 应该怎么设计？ | 拟物化非拟人化，三级身份，契约驱动 |
-| [06-memory](06-memory.md) | 知识怎么存储和进化？ | 三层记忆架构，事件驱动再巩固 |
-| [07-verification](07-verification.md) | 知识质量怎么保证？ | 验证门控，失败经验沉淀 |
-| [08-space-intelligence](08-space-intelligence.md) | AI 以什么形态存在？ | 空间智能化，万物有灵 |
+| [05-agent-arch](smart/05-agent-arch.md) | Agent 应该怎么设计？ | 拟物化非拟人化，三级身份，契约驱动 |
+| [06-memory](smart/06-memory.md) | 知识怎么存储和进化？ | 三层记忆架构，事件驱动再巩固 |
+| [07-verification](smart/07-verification.md) | 知识质量怎么保证？ | 验证门控，失败经验沉淀 |
+| [08-space-intelligence](smart/08-space-intelligence.md) | AI 以什么形态存在？ | 空间智能化，万物有灵 |
 
 **智能层之间的关系**：
 - Agent 架构（05）定义了智能体的基本形态
@@ -62,10 +62,10 @@ AI 系统本身的设计，回答"支撑 AI 原生组织的技术架构应该什
 
 | 模块 | 核心问题 | 关键概念 |
 |------|---------|---------|
-| [09-advisor](09-advisor.md) | AI 时代"专家"是什么角色？ | 顾问模型，需求转译，跨组织诊断 |
-| [10-career](10-career.md) | 有哪些"职业"？ | 职业体系设计 |
-| [11-lifecycle](11-lifecycle.md) | 组织从生到死是什么样的？ | 生命周期模型 |
-| [12-governance](12-governance.md) | 冲突怎么解决？ | 治理机制 |
+| [09-advisor](social/09-advisor.md) | AI 时代"专家"是什么角色？ | 顾问模型，需求转译，跨组织诊断 |
+| [10-career](social/10-career.md) | 有哪些"职业"？ | 职业体系设计 |
+| [11-lifecycle](social/11-lifecycle.md) | 组织从生到死是什么样的？ | 生命周期模型 |
+| [12-governance](social/12-governance.md) | 冲突怎么解决？ | 治理机制 |
 
 ### 应用层（Application）
 
@@ -73,9 +73,9 @@ AI 系统本身的设计，回答"支撑 AI 原生组织的技术架构应该什
 
 | 模块 | 核心问题 | 关键概念 |
 |------|---------|---------|
-| [13-landing-path](13-landing-path.md) | 怎么走到那里？ | 顾问模式→同类型复制→平台化 |
-| [14-enterprise](14-enterprise.md) | 大公司怎么过渡？ | 内部试点→部门工会化→联邦制 |
-| [15-super-team](15-super-team.md) | 个人和团队的边界怎么变？ | 超级个体→超级团队 |
+| [13-landing-path](application/13-landing-path.md) | 怎么走到那里？ | 顾问模式→同类型复制→平台化 |
+| [14-enterprise](application/14-enterprise.md) | 大公司怎么过渡？ | 内部试点→部门工会化→联邦制 |
+| [15-super-team](application/15-super-team.md) | 个人和团队的边界怎么变？ | 超级个体→超级团队 |
 
 ---
 
