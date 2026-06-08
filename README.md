@@ -59,28 +59,36 @@
 
 ```
 weaverealm/
-├── README.md                  ← 你在这里
-├── LICENSE                    ← CC BY 4.0
-├── architecture/              ← 底层架构（核心）
-│   ├── 00-overview.md         ← 架构全景：分层、原则、模块关系
-│   ├── 01-organization.md     ← 组织形态变革
-│   ├── 02-economy.md          ← 经济系统
-│   ├── 03-knowledge.md        ← 知识治理
-│   ├── 04-human-agent.md      ← 人机共生
-│   ├── 05-agent-arch.md       ← Agent 架构
-│   ├── 06-memory.md           ← 记忆系统
-│   ├── 07-verification.md     ← 验证门控
-│   ├── 08-space-intelligence.md ← 空间智能化
-│   ├── 09-advisor.md          ← 顾问模型
-│   ├── 10-career.md           ← 职业体系
-│   ├── 11-lifecycle.md        ← 组织生命周期
-│   ├── 12-governance.md       ← 冲突与治理
-│   ├── 13-landing-path.md     ← 落地路径
-│   ├── 14-enterprise.md       ← 大组织融入
-│   └── 15-super-team.md       ← 超级个体→超级团队
-├── stories/                   ← 织境短篇（可选载体）
-│   └── README.md              ← 写作规范和索引
-└── references/                ← 原始素材和参考资料
+├── README.md                      ← 你在这里
+├── LICENSE                        ← CC BY 4.0
+├── architecture/                  ← 底层架构（核心）
+│   ├── 00-overview.md             ← 架构全景：分层、原则、模块关系
+│   ├── foundation/                ← 基础层：世界运行规则
+│   │   ├── _index.md              ← 层内导读
+│   │   ├── 01-organization.md     ← 组织形态变革
+│   │   ├── 02-economy.md          ← 经济系统
+│   │   ├── 03-knowledge.md        ← 知识治理
+│   │   └── 04-human-agent.md      ← 人机共生
+│   ├── smart/                     ← 智能层：Agent能力架构
+│   │   ├── _index.md
+│   │   ├── 05-agent-arch.md       ← Agent 架构
+│   │   ├── 06-memory.md           ← 记忆系统
+│   │   ├── 07-verification.md     ← 验证门控
+│   │   └── 08-space-intelligence.md ← 空间智能化
+│   ├── social/                    ← 社会层：协作与治理
+│   │   ├── _index.md
+│   │   ├── 09-advisor.md          ← 顾问模型
+│   │   ├── 10-career.md           ← 职业体系
+│   │   ├── 11-lifecycle.md        ← 组织生命周期
+│   │   └── 12-governance.md       ← 冲突与治理
+│   └── application/               ← 应用层：落地与扩展
+│       ├── _index.md
+│       ├── 13-landing-path.md     ← 落地路径
+│       ├── 14-enterprise.md       ← 大组织融入
+│       └── 15-super-team.md       ← 超级个体→超级团队
+├── stories/                       ← 织境短篇（可选载体）
+│   └── README.md                  ← 写作规范和索引
+└── references/                    ← 原始素材和参考资料
 ```
 
 ## 参与方式
